@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/pingguocaihuiying/live/blob/master/sinov4iphone3.ipa</string>
+					<string>https://github.com/zhibomeiguo/sinoZhibo/blob/master/sinov4iphone3.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>https://github.com/pingguocaihuiying/live/blob/master/Icon-144.png</string>
+					<string>https://github.com/zhibomeiguo/sinoZhibo/blob/master/Icon-144.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>https://github.com/pingguocaihuiying/live/blob/master/Icon-50.png</string>
+					<string>https://github.com/zhibomeiguo/sinoZhibo/blob/master/Icon-50.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
